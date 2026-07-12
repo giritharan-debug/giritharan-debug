@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Giritharan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Support%20%7C%20IT%20Service%20Desk%20%7C%20Web%20Developerr&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Giritharan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Support%20%7C%20IT%20Service%20Desk%20%7C%20Web%20Developer&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;web developer+%26+cloud+Enthusiast;Django+%2B+MySQL+Backend+Developer;Building+CloudOps+Hub+-+ITSM+Platform;Open+to+Placement+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;web+developer+%26+cloud+Enthusiast;Django+%2B+MySQL+Backend+Developer;Building+CloudOps+Hub+-+ITSM+Platform;Open+to+Placement+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
