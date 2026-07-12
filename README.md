@@ -34,9 +34,9 @@
 
 ```yaml
 name: "Giritharan S"
-role: "Final-Year CSE Student · Aspiring Cloud & IT Support Engineer"
+role: "Final-Year CSE Student · Aspiring Cloud & web developer"
 location: "Cuddalore, Tamil Nadu, India"
-focus: ["Cloud Support", "IT Service Desk", "Full-Stack Engineering (Django)"]
+focus: ["Cloud Support", "IT Service Desk", "web developer"]
 ```
 
 I'm a final-year **Computer Science Engineering** student building practical, enterprise-style
@@ -51,7 +51,7 @@ DevOps deployment workflows.
 **🔭 Open To:**
 - IT Support Engineer / Service Desk Analyst roles
 - Cloud Support Engineer (AWS / Azure) opportunities
-- Full-Stack Developer roles (Python / Django)
+- Full-Stack Developer roles (Python / front end)
 - Entry-level, remote or on-site placements
 
 <br/>
