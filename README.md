@@ -235,7 +235,7 @@ Handled and optimized multiple client campaigns end-to-end.
 
 | Recognition | Details |
 |---|---|
-| 🎓 NPTEL Certification | Cloud Computing |
+| 🎓 NPTEL Certification | Database management system |
 | 💼 Capstone Project | CloudOps Hub — Enterprise ITSM Platform |
 | 🌱 Entrepreneurship | Founded & operated Thrift Pannuvom resale venture |
 | 🌍 Civic Tech | Built Green Eye, a crowdsourced waste-reporting platform |
@@ -250,7 +250,7 @@ Handled and optimized multiple client campaigns end-to-end.
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-database%20Management system-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 <br/>
 
