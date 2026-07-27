@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Giritharan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Support%20%7C%20IT%20Service%20Desk%20%7C%20Web%20Developer&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;web+developer+%26+cloud+Enthusiast;Django+%2B+MySQL+Backend+Developer;Building+CloudOps+Hub+-+ITSM+Platform;Open+to+Placement+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;web+developer+%26+cloud+Enthusiast+%2B+MySQL+Backend+Developer;Building+CloudOps+Hub+-+ITSM+Platform;Open+to+Placement+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,7 +40,7 @@ focus: ["Cloud Support", "IT Service Desk", "web developer"]
 ```
 
 I'm a final-year **Computer Science Engineering** student building practical, enterprise-style
-web applications with **Python, Django, MySQL**, and cloud fundamentals. My core interest lies
+web applications with **Python , MySQL**, and cloud fundamentals. My core interest lies
 in **IT infrastructure, service desk operations, and cloud support engineering** — bridging the
 gap between clean application code and reliable, well-run systems.
 
@@ -180,6 +180,18 @@ inventory optimization, and digital marketing.
 ---
 
 ### 🟣 Experience
+
+**software developer intern** . Cognifyz it solutions
+`internship`
+Developed java-based applications while gaining practical experienced in oop , file handling , CRUD operations , and version control with github.
+-developed a Quiz game using conditional statements and user input
+-built a number pattern generator using nested loops
+-designed task manager with full CRUD and created a temperature converter supporting Celsius-Fahrenheit conversions
+-improved debugging , testing and code organization skills
+
+`java` `problem solving` `github` `vscode`
+
+<br/>
 
 **Full Stack Developer Intern** · NexGen Software Institute
 `Internship`
